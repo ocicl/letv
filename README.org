@@ -1,10 +1,11 @@
 * letv
 
+This little hack introduces two handy Common Lisp macros, LETV and
+LETV* that allow you to mix regular LET and MULTIPLE-VALUE-BIND forms
+in a less verbose way.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/mantoniotti/letv.git   |
-| commit  |   |
-| systems | letv |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/mantoniotti/letv.git |
+| commit  | d85a40f                                                 |
+| systems | letv                                                    |
+|---------+---------------------------------------------------------|
