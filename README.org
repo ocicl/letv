@@ -6,6 +6,6 @@ in a less verbose way.
 
 |---------+---------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/mantoniotti/letv.git |
-| commit  | d958810                                                 |
+| commit  | 253fc0d                                                 |
 | systems | letv                                                    |
 |---------+---------------------------------------------------------|
